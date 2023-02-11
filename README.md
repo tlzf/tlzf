@@ -1,4 +1,4 @@
-<img src="/Users/faziletcetin/Desktop/HD-wallpaper-github-turquoise-logo-turquoise-brickwall-github-logo-social-networks-github-neon-logo-github-thumbnail.jpeg">
+<img src="">
 
 <h1 align="center">Hi I'm Fazilet</h1>
 
